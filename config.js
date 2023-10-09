@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['716550255', 'Muzan Kibutsuji', true],
-  [''],
+  ['+2630789771339', 'Muzan Kibutsuji', true],
+  [
   [''] 
 ] //Number of owners
 
-global.mods = ['716550255', '716550255'] 
-global.prems = ['716550255', '716550255', '716550255']
+global.mods = ['+2630789771339', '+2630789771339'] 
+global.prems = ['+263771339', '+2630789771339', '+2630789771339']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'Muzan'
 global.premium = 'true'
 global.packname = 'Muzan Kibutsuji The demon king ' 
 global.author = 'Muzan Kibutsuji' 
